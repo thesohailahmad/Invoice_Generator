@@ -40,7 +40,7 @@ A Python CLI application to create, manage, and save invoices. Built with Object
 
 ## ⚙️ OOP Concepts Used
 
-| Concept | Where |
+| Concept 
 |---|---|
 | Classes & Objects
 | Class Composition 
